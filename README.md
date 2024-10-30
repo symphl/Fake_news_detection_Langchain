@@ -1,2 +1,2 @@
-# Fake_news_detection_Langchain
-Fake news detection using Langchain
+Put your API keys in .env 
+Run the main_streamlit.py 
